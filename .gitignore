@@ -21,6 +21,7 @@ wheels/
 .idea/
 .vscode/
 .venv/
+venv/
 env/
 Qwen/
 .knox/
